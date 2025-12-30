@@ -1,0 +1,5 @@
+{
+  "name": "YC AI Radar",
+  "description": "Automated AI landscape radar for YC companies using Gemini to classify, tag, and analyze trends from raw batch data.",
+  "requestFramePermissions": []
+}
